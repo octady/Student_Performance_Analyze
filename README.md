@@ -13,18 +13,12 @@ This project isn't just about crunching numbers—it's about making a difference
 Access the application here: [Student Performance Analyze Dashboard](https://studentperformanceanalyze-octady.streamlit.app/)
 
 ## 📋 Features
-- **Tab 1 (Data Overview & Statistics)**
-View the entire dataset and key metrics to understand data distributions.
-- **Tab 2 (Data Visualization)**
-Explore interactive graphs to uncover trends and relationships between variables.
-- **Tab 3 (Exam Score Prediction)**
-Input factors like study hours, attendance, and tutoring sessions to predict exam scores. Includes top 5 highest and lowest scores visualizations.
-- **Tab 4 (Pass/Fail Prediction)**
-Predict pass/fail status based on attendance, previous score, and exam score. Includes pass/fail percentage breakdown.
-- **Tab 5 (Feature Importance)**
-Identify the most significant factors influencing exam scores and pass/fail outcomes.
-- **Tab 6 (Model Evaluation)**
-Evaluate predictive models with metrics like accuracy and precision, complete with visualized results.
+- **Tab 1 (Data Overview & Statistics)**: View the entire dataset and key metrics to understand data distributions.
+- **Tab 2 (Data Visualization)**: Explore interactive graphs to uncover trends and relationships between variables.
+- **Tab 3 (Exam Score Prediction)**: Input factors like study hours, attendance, and tutoring sessions to predict exam scores. Includes top 5 highest and lowest scores visualizations.
+- **Tab 4 (Pass/Fail Prediction)**: Predict pass/fail status based on attendance, previous score, and exam score. Includes pass/fail percentage breakdown.
+- **Tab 5 (Feature Importance)**: Identify the most significant factors influencing exam scores and pass/fail outcomes.
+- **Tab 6 (Model Evaluation)**: Evaluate predictive models with metrics like accuracy and precision, complete with visualized results.
 
 ## 🛠️ Technologies
 - Data processing and visualizations: Python
